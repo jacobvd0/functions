@@ -1,0 +1,15 @@
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\s221150\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.exe
+C:\Users\s221150\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.deps.json
+C:\Users\s221150\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+C:\Users\s221150\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.dll
+C:\Users\s221150\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.pdb
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.dll
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\refint\Functions.dll
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.pdb
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
+C:\Users\s221150\source\repos\Functions\Functions\obj\Debug\net6.0\ref\Functions.dll
